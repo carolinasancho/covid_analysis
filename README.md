@@ -29,3 +29,11 @@ The information was collected and all de data sources previously informed, all t
 I relates all the information by data in order to obtain the answer I was looking for: How big was the impact of the COVID on Brazilian job loss?. Got the conclusion that the impact was huge but we have already managed to recover in terms of unemployment rate.
 
 Considering the very limited time to perform analysis on this dataset and the analysis techniques that I know at the moment, with some effort I could obtain my results. 
+
+##  💻 Analysis:
+
+The dashboards were developed in Tableau:
+
+https://public.tableau.com/app/profile/carolina.tavares.sancho.monteiro/viz/ProjectTableau_16495348115470/COVID19
+
+
