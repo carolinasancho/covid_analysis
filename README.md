@@ -15,3 +15,10 @@ I choose a topic of interest to me: Covid and the impact on brazilian job loss -
 ## 🛠 Tools
 
 Python, Jupyter Notebook, Pandas, BeautifulSoup, Tableau
+
+## 🛠 Data Source:
+https://repositorio.seade.gov.br/dataset/emprego-formal-2021-painel
+http://pdet.mte.gov.br/novo-caged
+https://opendatasus.saude.gov.br/
+https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-trimestral.html?=&t=series-historicas&utm_source=landing&utm_medium=explica&utm_campaign=desemprego
+https://ourworldindata.org/
