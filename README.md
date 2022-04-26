@@ -22,3 +22,10 @@ http://pdet.mte.gov.br/novo-caged
 https://opendatasus.saude.gov.br/
 https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-trimestral.html?=&t=series-historicas&utm_source=landing&utm_medium=explica&utm_campaign=desemprego
 https://ourworldindata.org/
+
+##  💻 Aggregation and Analysis:
+
+The information was collected and all de data sources previously informed, all the aggregation and analysis were made with pandas and Tableau
+I relates all the information by data in order to obtain the answer I was looking for: How big was the impact of the COVID on Brazilian job loss?. Got the conclusion that the impact was huge but we have already managed to recover in terms of unemployment rate.
+
+Considering the very limited time to perform analysis on this dataset and the analysis techniques that I know at the moment, with some effort I could obtain my results. 
