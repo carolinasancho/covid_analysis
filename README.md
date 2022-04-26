@@ -29,8 +29,8 @@ https://ourworldindata.org/
 
 ##  💻 Aggregation and Scrapping:
 
-The information was collected and all de data sources previously informed, all the aggregation and analysis were made with pandas and Tableau
-I relates all the information by data in order to obtain the answer I was looking for: How big was the impact of the COVID on Brazilian job loss?
+The information was collected in all de data sources previously informed, all the aggregation and analysis were made with pandas and Tableau.
+I related all the information by data in order to obtain the answer I was looking for: How big was the impact of the COVID on Brazilian job loss?
 
 ##  💻 Analysis:
 
@@ -44,4 +44,4 @@ https://public.tableau.com/app/profile/carolina.tavares.sancho.monteiro/viz/Proj
 ![covid4](https://user-images.githubusercontent.com/95773406/165379121-1e9b094a-936d-4847-961b-8feccea86f4c.JPG)
 
 ##  💻 Conclusion:
-Although the impact of the COVID 19 on brazilian job loss were huge, we have already managed to recover in terms of unemployment rate.
+Although the impact of the COVID 19 on brazilian job loss was huge, we have already managed to recover in terms of unemployment rate.
